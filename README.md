@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Kashikaaaa/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Kashikaaaa/leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Kashikaaaa/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Kashikaaaa/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Kashikaaaa/leetcode/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
 |  |
@@ -22,8 +23,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Kashikaaaa/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Kashikaaaa/leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Kashikaaaa/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Kashikaaaa/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Kashikaaaa/leetcode/tree/master/0435-non-overlapping-intervals) |
+## String
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Kashikaaaa/leetcode/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Kashikaaaa/leetcode/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Kashikaaaa/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
